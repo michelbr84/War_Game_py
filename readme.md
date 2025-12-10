@@ -72,7 +72,7 @@ War_Game_py/
 
 ### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/Start-Tech-Academy/War_Game_py.git
+git clone https://github.com/michelbr84/War_Game_py.git
 cd War_Game_py
 ```
 
