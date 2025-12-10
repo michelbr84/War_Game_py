@@ -146,5 +146,5 @@ Distributed under the **MIT License**.
 ---
 
 ## 11. Credits
-*   **Developer**: Yossef (yossefsabry66@gmail.com)
+*   **Developer**: Yossef (yossefsabry66@gmail.com) - forked from yossefsabry/War_Game_py
 *   **Refactoring**: Updated to modular architecture by Antigravity.
